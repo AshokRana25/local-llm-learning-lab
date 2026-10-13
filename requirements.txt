@@ -1,0 +1,9 @@
+# Python 3.12 (64-bit). Install the CPU build of torch first; see README.md.
+# Direct dependencies are pinned; this is not a full transitive lockfile.
+streamlit==1.65.0
+chromadb==1.5.9
+sentence-transformers==6.1.0
+transformers==5.19.0
+torch==2.14.1
+pypdf==6.20.1
+requests==2.34.2
